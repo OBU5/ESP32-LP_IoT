@@ -1,0 +1,35 @@
+
+Documentation/Datasheets/ADP1612_1613.pdf
+Documentation/Datasheets/drv5032.pdf
+Documentation/Datasheets/DS_FT231X.pdf
+Documentation/Datasheets/Eink datasheet.pdf
+Documentation/Datasheets/esp32-pinout-chip-ESP-WROOM-32.png
+Documentation/Datasheets/esp32-wroom-32_datasheet_en.pdf
+Documentation/Datasheets/esp32_devkitc_v4-schema.pdf
+Documentation/Datasheets/EVAL-ADP1612_1613.pdf
+Documentation/Datasheets/MCP73833.pdf
+Documentation/Datasheets/PAM8406.pdf
+Documentation/Datasheets/si4403ddy.pdf
+Documentation/Datasheets/tlv521.pdf
+Documentation/Datasheets/tpl5111.pdf
+Documentation/Datasheets/tps3839.pdf
+Documentation/Datasheets/tps737.pdf
+Documentation/Datasheets/TS5A22362.pdf
+Documentation/Documentation.docx
+Documentation/Documentation.pdf
+Documentation/ESP32_pinout.xlsx
+Documentation/Prezentace 16.12.2020.pptx
+Documentation/screenshots/FallEdgeDetectionCircuit1.png
+Documentation/screenshots/FallEdgeDetectionCircuit2.png
+Documentation/screenshots/Scope - Circuit1.pdf
+Documentation/screenshots/Scope - Circuit2-XCS1.pdf
+Documentation/screenshots/Scope - Circuit2-XCS2.pdf
+Documentation/screenshots/SwitchCircuit-OpenDetection_closedSwitch.png
+Documentation/screenshots/SwitchCircuit-OpenDetection_openSwitch.png
+Multisim/EdgeTrigger.ms13
+Multisim/EdgeTrigger.ms13 (Security copy)
+Multisim/FallEdgeTrigger1.ms13
+Multisim/FallEdgeTrigger1.ms13 (Security copy)
+Multisim/Reg_enable.ms13
+Multisim/Reg_enable.ms13 (Security copy)
+Multisim/Reverse polarity protection.ms13
